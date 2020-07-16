@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1569393808 source:d:\学习\问题求解与实践\week3\main.cpp
+	<iostream>
+	<iomanip>
+	<cstring>
+	<string>
+

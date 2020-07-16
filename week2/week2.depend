@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1569062635 source:d:\学习\问题求解与实践\week2\main.cpp
+	<iostream>
+	<iomanip>
+	<string>
+

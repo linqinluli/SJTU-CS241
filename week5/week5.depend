@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1570543053 source:d:\study\wentiqiujie\week5\main.cpp
+	<iostream>
+	<cmath>
+	<iomanip>
+	<string>
+	<cstring>
+

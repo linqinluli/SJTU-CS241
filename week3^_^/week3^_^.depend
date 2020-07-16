@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1569581417 source:d:\学习\问题求解与实践\week3^_^\main.cpp
+	<iostream>
+	<cstring>
+	<cmath>
+	<string>
+
+1569748854 source:d:\study\wentiqiujie\week3^_^\main.cpp
+	<iostream>
+	<cstring>
+	<cmath>
+	<string>
+	<iomanip>
+
